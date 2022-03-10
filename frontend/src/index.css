@@ -17,6 +17,5 @@ body {
 a,
 a:hover {
   text-decoration: none;
-  /*color: unset;*/
-  color: #4D41C0;
+  color: unset;
 }
