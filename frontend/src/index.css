@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;1,400&display=swap');
+
+:root {
+  --color-primary: #4D41C0;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+html,
+body {
+  background-color: #778899;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  /*color: unset;*/
+  color: #4D41C0;
+}
